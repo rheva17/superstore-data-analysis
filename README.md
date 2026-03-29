@@ -75,7 +75,6 @@ superstore-data-analysis/
 ```
 │
 ├── data/            # dataset (raw & clean)
-├── analysis/        # hasil analisis
 ├── dashboard/       # visualisasi/dashboard
 ├── images/          # gambar chart
 └── README.md
