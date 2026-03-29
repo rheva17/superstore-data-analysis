@@ -86,3 +86,8 @@ superstore-data-analysis/
 ## ⚠️ Notes
 - Region merupakan data dummy
 - Profit merupakan hasil estimasi
+###
+## 🛠 Tools
+- Google Sheets
+- Looker Studio
+- OpenRefine
