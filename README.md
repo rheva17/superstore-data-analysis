@@ -33,6 +33,7 @@ Analisis dilakukan menggunakan beberapa visualisasi utama:
 
 ### 1. Sales by Region
 Menunjukkan distribusi penjualan di setiap region.
+###
 ![Sales by Region](images/SalesbyRegion.png)
 
 ### 2. Profit by Category
