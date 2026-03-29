@@ -33,15 +33,19 @@ Analisis dilakukan menggunakan beberapa visualisasi utama:
 
 ### 1. Sales by Region
 Menunjukkan distribusi penjualan di setiap region.
+![Sales by Region](images/Sales by Region.png)
 
 ### 2. Profit by Category
 Menunjukkan perbandingan profit antar kategori produk.
+![Profit by Category](images/Profit by Category.png)
 
 ### 3. Discount vs Profit
 Menunjukkan hubungan antara diskon dan profit.
+![Profit by Category](images/Discount vs Profit.png)
 
 ### 4. Top 10 Sub-Category
 Menampilkan 10 produk dengan penjualan tertinggi.
+![Top 10](images/top10 Sub-Category by Sales.png)
 
 ---
 
