@@ -38,14 +38,17 @@ Menunjukkan distribusi penjualan di setiap region.
 
 ### 2. Profit by Category
 Menunjukkan perbandingan profit antar kategori produk.
+###
 ![Profit by Category](images/ProfitbyCategory.png)
 
 ### 3. Discount vs Profit
 Menunjukkan hubungan antara diskon dan profit.
+###
 ![Profit by Category](images/DiscountvsProfit.png)
 
 ### 4. Top 10 Sub-Category
 Menampilkan 10 produk dengan penjualan tertinggi.
+###
 ![Top 10](images/top10Sub-CategorybySales.png)
 
 ---
