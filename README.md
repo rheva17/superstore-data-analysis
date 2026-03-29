@@ -64,12 +64,14 @@ Menampilkan 10 produk dengan penjualan tertinggi.
 ## 📂 Project Structure
 superstore-data-analysis/
 superstore-data-analysis/
+```
 │
 ├── data/            # dataset (raw & clean)
 ├── analysis/        # hasil analisis
 ├── dashboard/       # visualisasi/dashboard
 ├── images/          # gambar chart
 └── README.md
+```
 
 ---
 
