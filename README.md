@@ -49,7 +49,7 @@ Menunjukkan hubungan antara diskon dan profit.
 ### 4. Top 10 Sub-Category
 Menampilkan 10 produk dengan penjualan tertinggi.
 ###
-![Top 10](images/Top10Sub-CategorybySales.png.png)
+![Top 10](images/Top10Sub-CategorybySales.png)
 
 ---
 
