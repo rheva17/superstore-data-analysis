@@ -96,7 +96,7 @@ Dataset dalam kondisi sangat bersih saat diterima. Berikut langkah verifikasi ya
 ## 🔍 Exploratory Data Analysis (EDA)
 
 ### 1. Sales by Region
-![SalesbyRegion](./images/SalesbyRegion.png)
+![Sales by Region](./images/SalesbyRegion.png)
 
 | Region | Total Sales (Rp) | Total Profit (Rp) | % Kontribusi |
 |---|---|---|---|
@@ -109,6 +109,7 @@ Dataset dalam kondisi sangat bersih saat diterima. Berikut langkah verifikasi ya
 ---
 
 ### 2. Profit by Category
+![Profit by Category](./images/ProfitbyCategory.png)
 
 | Category | Total Sales (Rp) | Total Profit (Rp) |
 |---|---|---|
@@ -126,6 +127,7 @@ Dataset dalam kondisi sangat bersih saat diterima. Berikut langkah verifikasi ya
 ---
 
 ### 3. Discount Analysis
+![Discount Analysis](./images/DiscountvsProfit.png)
 
 | Tipe | Jumlah Transaksi | % Transaksi | Total Sales (Rp) | Total Profit (Rp) |
 |---|---|---|---|---|
@@ -137,6 +139,7 @@ Dataset dalam kondisi sangat bersih saat diterima. Berikut langkah verifikasi ya
 ---
 
 ### 4. Top 10 Sub-Category by Sales
+![Top10 SubCategory by Sales](./images/Top10Sub-CategorybySales.png)
 
 | Rank | Sub-Category | Total Sales (Rp) |
 |---|---|---|
