@@ -249,9 +249,9 @@ python analysis/analysis.py
 ## 📬 Contact
 
 **Junior Data Analyst**  
-📧 email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/username)  
-🐙 [GitHub](https://github.com/username)
+📧 email@vionarhema17.com  
+🔗 [LinkedIn](www.linkedin.com/in/viona-rhema-069b38378)  
+🐙 [GitHub](https://github.com/rheva17)
 
 ---
 
