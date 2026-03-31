@@ -250,7 +250,7 @@ python analysis/analysis.py
 
 **Junior Data Analyst**  
 📧 email@vionarhema17.com  
-🔗 [LinkedIn](www.linkedin.com/in/viona-rhema-069b38378)  
+🔗 [LinkedIn](https://www.linkedin.com/in/viona-rhema-069b38378/)  
 🐙 [GitHub](https://github.com/rheva17)
 
 ---
