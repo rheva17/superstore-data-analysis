@@ -96,6 +96,7 @@ Dataset dalam kondisi sangat bersih saat diterima. Berikut langkah verifikasi ya
 ## 🔍 Exploratory Data Analysis (EDA)
 
 ### 1. Sales by Region
+![SalesbyRegion](./images/SalesbyRegion.png)
 
 | Region | Total Sales (Rp) | Total Profit (Rp) | % Kontribusi |
 |---|---|---|---|
